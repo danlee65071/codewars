@@ -1,2 +1,5 @@
 test.py
-яндес бэкенд
+.idea
+.gitignore
+.idea/workspace.xml
+python/.idea/workspace.xml

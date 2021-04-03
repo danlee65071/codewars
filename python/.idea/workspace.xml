@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49f2b03f-f67a-48ee-b833-c65a4f4d366c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of pairs/sum_pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sum of pairs/sum_pairs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +61,7 @@
         <option value="$PROJECT_DIR$/Roman Numerals Helper/Roman_nums.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Sum of pairs/sum_pairs.py" />
       </list>
     </option>
   </component>
@@ -63,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,6 +87,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.sum_pairs">
     <configuration name="Roman_nums" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,27 +120,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roman Numerals Helper/Roman_nums.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Where my anagrams at?" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Where my anagrams at?/anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,6 +170,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sum_pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sum of pairs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum of pairs/sum_pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum_pairs" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Roman_nums" />
         <item itemvalue="Python.get_pins" />
         <item itemvalue="Python.snail_oleg" />
-        <item itemvalue="Python.anagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -224,13 +237,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15151516" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15151516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3927711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -251,6 +265,15 @@
           <url>file://$PROJECT_DIR$/test.py</url>
           <line>33</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sum of pairs/sum_pairs.py</url>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -357,13 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Regex validate PIN code/validate_pin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -378,24 +394,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/Roman Numerals Helper/Roman_nums.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="374">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Roman Numerals Helper/Roman_nums.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="141">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/timeit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum of pairs/sum_pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
